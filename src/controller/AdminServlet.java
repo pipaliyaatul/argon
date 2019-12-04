@@ -19,7 +19,7 @@ public class AdminServlet extends HttpServlet {
         super();
         // TODO Auto-generated constructor stub
     }
-
+//THis is commit message and checking with pull request
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
